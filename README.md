@@ -5,8 +5,7 @@
 ## About Me :
 
 - 🏢 I am currently working as a **Soporte TI** at [Lamar Optical SAS](https://www.lamaroptical.com/)
-- 🏢 Former **Software Engineer** at [iLabs](https://www.ilabs.lk/)
-- 🎓 Studies for Software Engineering at [London Metropolitan University](https://www.londonmet.ac.uk/)
+- 🎓 Studies for Software  at Uidades Tecnologicas de Santander
 - 🎓 Studies for BCS HEQ at [Matrix Institute of Information Technology](http://www.matrix-edu.com/)
 - 🏡'Lives in **Dalugama Sri Lanka**
 - ⚡ **Fun Facts** : 🍕 🏉 🏏 🎥 🚞
