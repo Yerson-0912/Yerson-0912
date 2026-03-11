@@ -62,7 +62,6 @@ Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="
 <img src="https://img.icons8.com/color/48/javascript--v1.png"/>
 <img src="https://img.icons8.com/color/48/python.png"/>
 <img src="https://img.icons8.com/color/48/mysql-logo.png"/>
-<img src="https://img.icons8.com/color/48/linux.png"/>
 <img src="https://img.icons8.com/color/48/git.png"/>
 
 </p>
