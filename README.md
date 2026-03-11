@@ -4,7 +4,7 @@
 
 ## About Me :
 
-- 🏢 I am currently working as a **Soporte TI** at [HCL Technologies Lanka][https://www.lamaroptical.com/]
+- 🏢 I am currently working as a **Soporte TI** at [Lamar Optical SAS(https://www.lamaroptical.com/)]
 - 🏢 Former **Software Engineer** at [iLabs](https://www.ilabs.lk/)
 - 🎓 Studies for Software Engineering at [London Metropolitan University](https://www.londonmet.ac.uk/)
 - 🎓 Studies for BCS HEQ at [Matrix Institute of Information Technology](http://www.matrix-edu.com/)
